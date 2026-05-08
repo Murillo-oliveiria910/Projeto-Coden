@@ -12,7 +12,7 @@ const STORE_CONFIG = {
   // Redes Sociais e Contato
   instagram: "https://www.instagram.com/coden_shop?igsh=aHRudTZhM2NvdXdu",
   tiktok: "https://www.tiktok.com/@coden.shop?_r=1&_t=ZS-96C9aIzj01k",
-  whatsapp: "https://wa.me/qr/CVBKEX7BRDX4C1" // Formato: https://wa.me/55 + DDD + Numero
+  whatsapp: "https://amfufuhaifgiuadgfgdafgiad.app.n8n.cloud/webhook/230d250b-3b80-4266-8ac8-d01536bd4a46/chat" // Formato: https://wa.me/55 + DDD + Numero
 };
 
 const products = [
